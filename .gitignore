@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Media Files #
+###############
+*.mp3
+*.mp4
+*.mkv
+*.m4a
