@@ -1,17 +1,25 @@
 /* All pages */
 body {
-  background:
-    #212529;
+  background: #212529;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+  padding: 3% 13%
 }
 
 .navbar {
   margin-top: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }
 
 /* Lastest releases page */
 .text-end {
   font-size: 11px;
+}
+
+.lr-btn {
+  margin-top: 15px;
 }
 
 /* Indivdual lastest release pages */
