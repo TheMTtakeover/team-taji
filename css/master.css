@@ -30,11 +30,7 @@ hr {
 }
 
 .max-width-1100 {
-  max-width: 1500px;
-}
-
-.btn-lg {
-  border: 0;
+  max-width: 1400px;
 }
 
 /* Lastest releases page */
@@ -45,7 +41,7 @@ hr {
 }
 
 .lr-btn {
-  margin-top: 15px;
+  border: 0;
 }
 
 .lr-a {
