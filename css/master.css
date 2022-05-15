@@ -177,3 +177,18 @@ hr {
   letter-spacing: 2px;
   margin-top: 15px;
 }
+
+.stream-btn {
+  padding-left: 79px;
+  padding-right: 79px;
+}
+
+.download-btn {
+  padding-left: 66px;
+  padding-right: 66px;
+}
+
+.stream-purchase-btn {
+  padding-left: 25px;
+  padding-right: 25px;
+}
