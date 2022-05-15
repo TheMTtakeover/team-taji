@@ -1,15 +1,22 @@
 /* All pages */
 body {
-  background: #212529;
+  background: black;
   font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Permanent Marker', sans-serif;
+  margin-bottom: 25px;
 }
 
 h3 {
   margin-bottom: 25px;
+  font-family: 'Permanent Marker', sans-serif;
 }
 
 h4 {
   margin-bottom: 25px;
+  font-family: 'Permanent Marker', sans-serif;
 }
 
 hr {
@@ -21,7 +28,7 @@ hr {
 }
 
 .navbar {
-  margin-top: 25px;
+  padding-top: 25px;
   margin-bottom: 50px;
 }
 
@@ -30,13 +37,12 @@ hr {
 }
 
 .max-width-1100 {
-  max-width: 1500px;
+  max-width: 1400px;
 }
 
-.btn-lg {
-  border: 0;
+.navbar-brand {
+  font-family: 'Permanent Marker', sans-serif;
 }
-
 /* Lastest releases page */
 .text-end {
   margin-top: 10px;
@@ -45,7 +51,7 @@ hr {
 }
 
 .lr-btn {
-  margin-top: 15px;
+  border: 0;
 }
 
 .lr-a {
@@ -76,6 +82,19 @@ hr {
 } */
 
 /* Music page */
+.music-bg {
+padding-bottom: 50px;
+}
+
+.artwork-container {
+  margin-bottom:15px;
+}
+
 .not-top {
   margin-top: 50px;
+}
+
+.music-btn {
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
