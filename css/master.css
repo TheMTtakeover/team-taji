@@ -142,6 +142,10 @@ hr {
   border: 0;
 }
 
+.youtube-btn {
+  width: 100%;
+}
+
 .lr-a {
   color: white;
   font-size: 20px;
@@ -151,15 +155,17 @@ hr {
 }
 
 .lr-a:hover {
-  color: gray;
+  color: black;
 }
 
 .p-head {
   margin-top: 15px;
 }
 
-.audio-margin {
+.lr-audio {
   margin-top: 15px;
+    width: 100%;
+
 }
 
 /* Music page */
@@ -176,23 +182,23 @@ hr {
 }
 
 .music-btn {
-  padding-top: 2px;
-  padding-bottom: 2px;
+  color: white;
+  width: 100%;
   letter-spacing: 2px;
   margin-top: 15px;
 }
 
-.stream-btn {
+/* .stream-btn {
   padding-left: 79px;
   padding-right: 79px;
-}
+} */
 
-.download-btn {
+/* .download-btn {
   padding-left: 66px;
   padding-right: 66px;
-}
+} */
 
-.stream-purchase-btn {
+/* .stream-purchase-btn {
   padding-left: 25px;
   padding-right: 25px;
-}
+} */
