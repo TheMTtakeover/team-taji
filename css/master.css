@@ -96,6 +96,10 @@ hr {
   letter-spacing: 2px;
 }
 
+.landing-btn:hover {
+  color: #A50000;
+}
+
 .landing-btn:active {
   color: #A50000;
 }
@@ -163,9 +167,9 @@ hr {
   padding-bottom: 50px;
 }
 
-.artwork-container {
-  /* margin-bottom: 15px; */
-}
+/* .artwork-container {
+  margin-bottom: 15px;
+} */
 
 .not-top {
   margin-top: 50px;
