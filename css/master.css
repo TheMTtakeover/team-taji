@@ -23,6 +23,10 @@ hr {
   margin-top: 0;
 }
 
+p {
+	margin-bottom: 0px;
+}
+
 .container-fluid {
   padding: 3% 3%
 }
@@ -175,8 +179,10 @@ hr {
 }
 
 .lr-text {
-  color: white
-  font-size: 14px
+  color: white;
+  font-size: 20px;
+  font-family: 'Permanent Marker', sans-serif;
+  padding-top: 8px;
   }
 
 /* Music page */
