@@ -184,6 +184,14 @@ p {
   font-family: 'Permanent Marker', sans-serif;
   padding-top: 8px;
   }
+  
+ .page-text {
+   color: white;
+ }
+ 
+ .page-link {
+   color: white;
+ }
 
 /* Music page */
 .music-bg {
